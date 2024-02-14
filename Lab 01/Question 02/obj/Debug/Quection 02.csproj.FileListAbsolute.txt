@@ -1,0 +1,7 @@
+D:\Lab 01 (2024.01.24)\Quection 02\obj\Debug\Quection 02.csproj.AssemblyReference.cache
+D:\Lab 01 (2024.01.24)\Quection 02\obj\Debug\Quection 02.csproj.CoreCompileInputs.cache
+D:\Lab 01 (2024.01.24)\Quection 02\bin\Debug\Quection 02.exe.config
+D:\Lab 01 (2024.01.24)\Quection 02\bin\Debug\Quection 02.exe
+D:\Lab 01 (2024.01.24)\Quection 02\bin\Debug\Quection 02.pdb
+D:\Lab 01 (2024.01.24)\Quection 02\obj\Debug\Quection 02.exe
+D:\Lab 01 (2024.01.24)\Quection 02\obj\Debug\Quection 02.pdb
