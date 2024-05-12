@@ -1,0 +1,7 @@
+D:\Yr1 Sem3\C#\Question2\obj\Debug\Question2.csproj.AssemblyReference.cache
+D:\Yr1 Sem3\C#\Question2\obj\Debug\Question2.csproj.CoreCompileInputs.cache
+D:\Yr1 Sem3\C#\Question2\bin\Debug\Question2.exe.config
+D:\Yr1 Sem3\C#\Question2\bin\Debug\Question2.exe
+D:\Yr1 Sem3\C#\Question2\bin\Debug\Question2.pdb
+D:\Yr1 Sem3\C#\Question2\obj\Debug\Question2.exe
+D:\Yr1 Sem3\C#\Question2\obj\Debug\Question2.pdb
