@@ -1,0 +1,10 @@
+D:\Yr1 Sem3\C#\Lab Sheets\Lab4\Question1\bin\Debug\Question1.exe.config
+D:\Yr1 Sem3\C#\Lab Sheets\Lab4\Question1\bin\Debug\Question1.exe
+D:\Yr1 Sem3\C#\Lab Sheets\Lab4\Question1\bin\Debug\Question1.pdb
+D:\Yr1 Sem3\C#\Lab Sheets\Lab4\Question1\obj\Debug\Question1.csproj.AssemblyReference.cache
+D:\Yr1 Sem3\C#\Lab Sheets\Lab4\Question1\obj\Debug\Question1.Form1.resources
+D:\Yr1 Sem3\C#\Lab Sheets\Lab4\Question1\obj\Debug\Question1.Properties.Resources.resources
+D:\Yr1 Sem3\C#\Lab Sheets\Lab4\Question1\obj\Debug\Question1.csproj.GenerateResource.cache
+D:\Yr1 Sem3\C#\Lab Sheets\Lab4\Question1\obj\Debug\Question1.csproj.CoreCompileInputs.cache
+D:\Yr1 Sem3\C#\Lab Sheets\Lab4\Question1\obj\Debug\Question1.exe
+D:\Yr1 Sem3\C#\Lab Sheets\Lab4\Question1\obj\Debug\Question1.pdb
